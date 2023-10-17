@@ -49,15 +49,15 @@
 
 ## Contact me at: 📬
 <div align = "left">
-  <linkedin href="https://www.linkedin.com/in/daviludvig/">
+  <a href="https://www.linkedin.com/in/daviludvig/">
     <img src="https://img.shields.io/badge/-Linkedin-1DA1F2?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
-  </linkedin>
-  <mail href = "mailto:ludviglongen@gmail.com">
+  </a>
+  <a href = "mailto:ludviglongen@gmail.com">
   <img src = "https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=Gmail&logoColor=FFF">
-  </mail>
-  <twitter href = "https://twitter.com/daviludvig">
+  </a>
+  <a href = "https://twitter.com/daviludvig">
   <img src = "https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=X&logoColor=000">
-  </twitter>
+  </a>
 </div>
 
 ## Stats: 📊
