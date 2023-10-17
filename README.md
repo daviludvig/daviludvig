@@ -12,39 +12,40 @@
 
 ### Languages: 💻
 <div align = "left">
-  <cpp href = "https://cplusplus.com/" rel = "noreferrer">
+  <a href = "https://cplusplus.com/" rel = "noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt = "CPP" width="40" height="40"/> 
-  </cpp>
-  <c href = "https://www.gnu.org/software/gnu-c-manual/" rel = "noreferrer">
+  </a>
+  <a href = "https://www.gnu.org/software/gnu-c-manual/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/c-1.svg" alt = "C" width = "40" height = "40">
-  <java href = "https://docs.oracle.com/javase/8/docs/api/java/lang/ref/Reference.html" rel = "noreferrer">
+  </a>
+  <a href = "https://docs.oracle.com/javase/8/docs/api/java/lang/ref/Reference.html" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/java-14.svg" alt = "Java" width="40" height="40">
-  </java>
-  <python href = "https://docs.python.org/3/reference/index.html" rel = "noreferrer">
+  </a>
+  <a href = "https://docs.python.org/3/reference/index.html" rel = "noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt = "Python" width="40" height="40"> 
-  </python>
+  </a>
 </div>
 
 ### Technologies and tools: 🛠️
 <div align = "left">
-  <macos href = "https://www.apple.com/" rel = "noreferrer">
+  <a href = "https://www.apple.com/" rel = "noreferrer">
     <img src = "https://files.softicons.com/download/system-icons/mac-os-apps-icons-3-by-hamza-saleem/png/512x512/Finder.png" alt = "macOS" width="40" height="40">
-  </macos>
-  <openssl href = "https://www.openssl.org/" rel = "noreferrer">
+  </a>
+  <a href = "https://www.openssl.org/" rel = "noreferrer">
     <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/openssl_logo_icon_168925.png" alt = "OpenSSL" width="40" height="40">
-  </openssl>
-  <ubuntu href = "https://ubuntu.com/core/docs/reference" rel = "noreferrer">
+  </a>
+  <a href = "https://ubuntu.com/core/docs/reference" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt = "Ubuntu" width="40" height="40">
-  </ubuntu>
-  <docker href = "https://www.docker.com/" rel = "noreferrer">
+  </a>
+  <a href = "https://www.docker.com/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/docker.svg" alt = "Docker" width="40" height="40">
-  </docker>
-  <nvim href = "https://neovim.io/" rel = "noreferrer">
+  </a>
+  <a href = "https://neovim.io/" rel = "noreferrer">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt = "Neovim" width="40" height="40">
-  </nvim>
-  <git href = "https://git-scm.com/" rel = "noreferrer">
+  </a>
+  <a href = "https://git-scm.com/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt = "Git" width="40" height="40">
-  </git>
+  </a>
 </div>
 
 ## Contact me at: 📬
