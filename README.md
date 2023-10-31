@@ -63,6 +63,6 @@
 
 ## Stats: 📊
 <div align="center"> 
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviludvig&layout=donut&langs_count=4&theme=tokyonight">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviludvig&layout=donut&langs_count=4&theme=merko">
     <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviludvig&theme=tokyonight"/></td></tr></table>
 </div>
