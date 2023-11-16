@@ -52,22 +52,21 @@
 </div>
 
 ### Currently studying: 📚
-<table>
-  <td>
-    - Going deep inside the OpenSSL.
-    - Doing better on Linux.
-    - Implementing cryptography methods.
-    - Writing a cleaner code.
-  </td>
-  <td>
-    open
-  </td>
-<table>
-    <!-- - Going deep inside the OpenSSL.
-    - Doing better on Linux.
-    - Implementing cryptography methods.
-    - Writing a cleaner code. -->
+  <table>
+    <td>
     
+      - Going deep inside the OpenSSL.
+      - Doing better on Linux.
+      - Implementing cryptography methods.
+      - Writing a cleaner code.
+  </td>
+    <td>
+      open
+    </td>
+  </table>
+
+
+
 ## Contact me at: 📬
 <div align = "left">
   <a href="https://www.linkedin.com/in/daviludvig/">
