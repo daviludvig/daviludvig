@@ -52,10 +52,21 @@
 </div>
 
 ### Currently studying: 📚
+<table>
+  <td>
     - Going deep inside the OpenSSL.
     - Doing better on Linux.
     - Implementing cryptography methods.
     - Writing a cleaner code.
+  </td>
+  <td>
+    open
+  </td>
+<table>
+    <!-- - Going deep inside the OpenSSL.
+    - Doing better on Linux.
+    - Implementing cryptography methods.
+    - Writing a cleaner code. -->
     
 ## Contact me at: 📬
 <div align = "left">
