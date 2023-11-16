@@ -34,7 +34,7 @@
   <a href = "https://www.openssl.org/" rel = "noreferrer">
     <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/openssl_logo_icon_168925.png" alt = "OpenSSL" width="40" height="40">
   </a>
-  <a href = "https://ubuntu.com/core/docs/reference" rel = "noreferrer">
+  <a href = "https://www.linux.org/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/tux.svg" alt = "Linux" width="40" height="40">
   </a>
   <a href = "https://www.docker.com/" rel = "noreferrer">
