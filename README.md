@@ -52,9 +52,11 @@
 </div>
 
 ### Currently studying: 📚
-> 
-
-
+    - Going deep inside the OpenSSL.
+    - Doing better on Linux.
+    - Implementing cryptography methods.
+    - Writing a cleaner code.
+    
 ## Contact me at: 📬
 <div align = "left">
   <a href="https://www.linkedin.com/in/daviludvig/">
