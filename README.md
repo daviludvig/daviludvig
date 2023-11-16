@@ -61,7 +61,7 @@
       - Writing a cleaner code.
   </td>
     <td>
-      open
+      <img src="vim_usage.gif">
     </td>
   </table>
 
