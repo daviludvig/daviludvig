@@ -8,7 +8,7 @@
 
 ⚙️ - Algorithms admirer and number theory enthusiast.
 
-🕰️ - Nostalgic technology lover.
+🔐 - Planning a future alongside cybersecurity.
 
 ### Languages: 💻
 <div align = "left">
@@ -35,7 +35,7 @@
     <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/openssl_logo_icon_168925.png" alt = "OpenSSL" width="40" height="40">
   </a>
   <a href = "https://ubuntu.com/core/docs/reference" rel = "noreferrer">
-    <img src = "https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt = "Ubuntu" width="40" height="40">
+    <img src = "https://cdn.worldvectorlogo.com/logos/tux.svg" alt = "Linux" width="40" height="40">
   </a>
   <a href = "https://www.docker.com/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/docker.svg" alt = "Docker" width="40" height="40">
@@ -43,10 +43,17 @@
   <a href = "https://neovim.io/" rel = "noreferrer">
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt = "Neovim" width="40" height="40">
   </a>
+  <a href = "" rel="noreferrer">
+    <img src = "https://cdn.worldvectorlogo.com/logos/vim.svg" alt = "Vim" width ="40" height="40">
+  </a>
   <a href = "https://git-scm.com/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt = "Git" width="40" height="40">
   </a>
 </div>
+
+### Currently studying: 📚
+> 
+
 
 ## Contact me at: 📬
 <div align = "left">
@@ -66,3 +73,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviludvig&layout=donut&langs_count=4&theme=merko">
     <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daviludvig&theme=merko"/></td></tr></table>
 </div>
+
+<!-- <div>
+  <p align="right"><img src='https://komarev.com/ghpvc/?username=daviludvig' /></p>
+</div> -->
