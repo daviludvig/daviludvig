@@ -43,7 +43,7 @@
   <a href = "https://spring.io/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt = "Spring Boot" width="40" height="40">
   </a>
-  <a href = "" rel="noreferrer">
+  <a href = "https://www.vim.org/" rel="noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/vim.svg" alt = "Vim" width ="40" height="40">
   </a>
   <a href = "https://git-scm.com/" rel = "noreferrer">
