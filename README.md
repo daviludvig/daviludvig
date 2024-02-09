@@ -40,14 +40,17 @@
   <a href = "https://www.docker.com/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/docker.svg" alt = "Docker" width="40" height="40">
   </a>
-  <a href = "https://neovim.io/" rel = "noreferrer">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt = "Neovim" width="40" height="40">
+  <a href = "https://spring.io/" rel = "noreferrer">
+    <img src = "https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt = "Spring Boot" width="40" height="40">
   </a>
   <a href = "" rel="noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/vim.svg" alt = "Vim" width ="40" height="40">
   </a>
   <a href = "https://git-scm.com/" rel = "noreferrer">
     <img src = "https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt = "Git" width="40" height="40">
+  </a>
+  <a href = "https://pt.wikipedia.org/wiki/Shell_script" rel = "noreferrer">
+    <img src = "https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt = "Shell Script" width="40" height="40">
   </a>
 </div>
 
