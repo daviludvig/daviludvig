@@ -4,11 +4,11 @@
 
 <img align = "right" alt = "Booting this MAChine." width = "250" src = "macintosh_boot.gif">
 
+🔐 - Intern in Computer Security Laboratory <a href = "https://labsec.ufsc.br/" rel = "noreferrer"> <img src = "logoLabSEC.png" alt = "LabSEC" height = "20"/> </a> .
+
 🎓 - Computer Science undergraduate student at  Universidade Federal de Santa Catarina ([UFSC](https://ufsc.br/)).
 
 ⚙️ - Algorithms admirer and number theory enthusiast.
-
-🔐 - Intern in Computer Security Laboratory <a href = "https://labsec.ufsc.br/" rel = "noreferrer"> <img src = "logoLabSEC.png" alt = "LabSEC" height = "20"/> </a> .
 
 ### Languages: 💻
 <div align = "left">
