@@ -8,7 +8,7 @@
 
 ⚙️ - Algorithms admirer and number theory enthusiast.
 
-🔐 - Planning a future alongside cybersecurity.
+🔐 - Intern in Computer Security Laboratory (LabSEC).
 
 ### Languages: 💻
 <div align = "left">
