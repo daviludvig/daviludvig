@@ -3,7 +3,7 @@
 
 🔐 - I'm a software developer intern @LabSEC (Computer Security Laboratory)<a href = "https://labsec.ufsc.br/" rel = "noreferrer"> <img src = "assets/logoLabSEC.png" alt = "LabSEC" height = "20"/> </a> .\
 🎓 - I'm current a Computer Science undergraduate student @[Universidade Federal de Santa Catarina](https://ufsc.br/).\
-⚙️ - I have a strong interest in research and implementation of cryptographic methods and protocols.\
+⚙️ - I have a strong interest in research and implementation of cryptographic methods, protocols and schemes.\
 🐧 - Also, i'm really into dealing with Unix-based operational systems.
 
 [![pgp](https://img.shields.io/badge/pgp-06400195259B5B0E-313131?style=flat&labelColor=545454&color=313131)](https://github.com/daviludvig.gpg)
