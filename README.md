@@ -9,9 +9,12 @@
 [![pgp](https://img.shields.io/badge/pgp-06400195259B5B0E-313131?style=flat&labelColor=545454&color=313131)](https://github.com/daviludvig.gpg)
 
 ### Projects 
+- Stack: `Java`, `Spring Boot`, `Docker`, `OpenSSL`, `Bouncy Castle`, ...
 - I'm currently working on 🍃 **HAWA** and 🌳 **Ybyrá**.
-  - Stack: `Java`, `Spring Boot`, `Docker`, `OpenSSL`, `Bouncy Castle`, ...
   - 🍃 **HAWA** is Digital Certificate Management System for end-users widely used throughout Brazil and 🌳 **Ybyrá** is an Digital Attribute Certificate Management Service. Both those applications aim to manage the entire lifecycle of the certificate and are built in accordance to the standards of the Brazilian PKI (ICP-Brasil).
+- I'm also involved in the development of tools for secure interaction with **Hardware Security Modules (HSMs)**
+  - ✉️ **Amanajé** is a cryptographic communication library designed to enable secure interaction with Hardware Security Modules (HSMs) using the KMIP (Key Management Interoperability Protocol) standard.
+  - ☁️ **pkcs11-psc** interfaces with Hardware Security Modules (HSMs) through the PKCS#11 standard to perform key management and digital signatures with hardware-backed security, as part of a system that implements a Trusted Service Provider (PSC).
 
 ### Reach me at
 <div align = "left">
