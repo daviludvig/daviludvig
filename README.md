@@ -7,7 +7,7 @@
 ⚙️ - Interested in identity governance, cybersecurity, distributed systems, Linux, and secure software development.\
 🐧 - Enthusiast of Unix-based systems, automation, and low-level software engineering.
 
-[![pgp](https://img.shields.io/badge/pgp-06400195259B5B0E-313131?style=flat&labelColor=545454&color=313131)](https://github.com/daviludvig.gpg)
+[![pgp](https://img.shields.io/badge/pgp-EE203E8AC3CB2A41-313131?style=flat&labelColor=545454&color=313131)](https://github.com/daviludvig.gpg)
 
 <!-- ### Technologies
 
